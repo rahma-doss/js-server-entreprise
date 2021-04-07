@@ -1,0 +1,38 @@
+"themeOneServiceSection": {
+        "heading": "Make your Device Manage Everything For you",
+        "headingTwo": "Share your photos with friends easily",
+        "headingThree": "Smart and secure mobile banking",
+        "headingFour": "More productivity with less effort",
+        "headingFive": "Nos services",
+        "headingSix": "Work faster with powerful filters",
+        "headingSeven": "Stay connected with all of your friends",
+        "buttonText": "Learn More",
+        "thumbOne": "/img/features_thumb.png",
+        "thumbTwo": "/img/service_thumb_2.png",
+        "thumbThree": "/img/welcome_mockup_2.png",
+        "thumbFour": "/img/discover_thumb.png",
+        "thumbFive": "/img/service_thumb_1.png",
+        "thumbSix": "/img/discover_thumb_2.png",
+        "serviceData": [
+           
+            {
+                "id": 1,
+                "iconClass": "fas fa-brush",
+                "text": "Recherches de candidats",
+                "description":"Vos missions seront envoyées en temps réel à des candidats ayant les compétences requises et pertinante !"
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-burn",
+                "text": "Gestion de candidatures.",
+                "description":"Vous verrez une liste de candidats interressés pour effectuer votre mission. Il ne vous restera qu'a faire un choix parmis les profils !"
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-cart-arrow-down",
+                "text": "Gestion de la rémunération",
+                "description":"Le candidat recevra sa rémunération à partir de notre application !"
+            }
+        ]
+    }
+    }
